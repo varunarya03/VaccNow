@@ -87,3 +87,9 @@ File Path - Project directory
  * Unit Tests
 VaccNowApplicationTests.java
 
+ * H2 Database
+ http://localhost:8080/h2-console
+ jdbc:h2:mem:vaccnow
+ user - sa
+ password - 
+
